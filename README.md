@@ -39,12 +39,12 @@ Siga os passos abaixo para executar os códigos localmente:
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/GeovannaApNunes/IA---EDN.git
+   git clone  https://github.com/HenriquePST/EDN-IA
    ```
 
 2. **Acesse a pasta do projeto**
    ```bash
-   cd IA---EDN
+   cd EDN-IA
    ```
 
 3. **Abra no VS Code**
